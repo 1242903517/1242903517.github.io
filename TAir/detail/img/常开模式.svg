@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>常开模式</title>
+    <desc>Created with Sketch.</desc>
+    <g id="最终" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="T1产品" transform="translate(-634.000000, -2488.000000)">
+            <g id="图标" transform="translate(0.000000, 2138.000000)">
+                <g id="常开模式" transform="translate(634.000000, 350.000000)">
+                    <path d="M52,0 C23.281,0 0,23.281 0,52 C0,80.719 23.281,104 52,104 C80.719,104 104,80.719 104,52 C104,23.281 80.719,0 52,0 M52,0.5 C80.397,0.5 103.5,23.603 103.5,52 C103.5,80.397 80.397,103.5 52,103.5 C23.603,103.5 0.5,80.397 0.5,52 C0.5,23.603 23.603,0.5 52,0.5" id="Fill-1" fill="#333333"></path>
+                    <polygon id="Stroke-3" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="38.75 69 62.75 69 62.75 48 38.75 48"></polygon>
+                    <polyline id="Stroke-4" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="57.3496 53.0137 62.7496 48.0267 38.7496 48.0267 44.1506 53.0137"></polyline>
+                    <polyline id="Stroke-5" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="57.3496 63.9863 62.7496 68.9733 38.7496 68.9733 44.1506 63.9863"></polyline>
+                    <g id="Group-10" transform="translate(30.000000, 27.000000)" stroke="#333333" stroke-width="4">
+                        <path d="M39.0605,13.376 L41.1645,2.376 C41.4015,1.143 40.4565,0 39.2015,0 L2.2985,0 C1.0435,0 0.0985,1.143 0.3345,2.376 L2.4395,13.376 C2.6195,14.318 3.4445,15 4.4035,15 L37.0965,15 C38.0555,15 38.8805,14.318 39.0605,13.376 Z" id="Stroke-6"></path>
+                        <path d="M36.75,48 L4.75,48 C3.646,48 2.75,47.104 2.75,46 L2.75,17 C2.75,15.896 3.646,15 4.75,15 L36.75,15 C37.854,15 38.75,15.896 38.75,17 L38.75,46 C38.75,47.104 37.854,48 36.75,48 Z" id="Stroke-8" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

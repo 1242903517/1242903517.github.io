@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>多仓发货配货</title>
+    <desc>Created with Sketch.</desc>
+    <g id="最终" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="T1产品" transform="translate(-1047.000000, -13314.000000)" stroke="#FFFFFF">
+            <g id="Group-26" transform="translate(0.000000, 13192.000000)">
+                <g id="多仓发货配货" transform="translate(1048.000000, 123.000000)">
+                    <path d="M9.663,13.28613 L11.9244,13.28613" id="Stroke-1" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-2" stroke-linecap="round" stroke-linejoin="round" points="14.562 13.28613 15.5757 13.28613 15.5757 8.96163 15.5757 5.40003 8.4069 5.40003 8.4069 8.28963 5.4 9.56163 5.4 13.28613 7.2261 13.28613"></polyline>
+                    <g id="Group-9">
+                        <path d="M9.51591,13.66788 C9.51591,14.29998 9.00321,14.81238 8.37111,14.81238 C7.73871,14.81238 7.22631,14.29998 7.22631,13.66788 C7.22631,13.03578 7.73871,12.52308 8.37111,12.52308 C9.00321,12.52308 9.51591,13.03578 9.51591,13.66788 Z" id="Stroke-3"></path>
+                        <path d="M14.39502,13.66788 C14.39502,14.29998 13.88232,14.81238 13.25022,14.81238 C12.61782,14.81238 12.10542,14.29998 12.10542,13.66788 C12.10542,13.03578 12.61782,12.52308 13.25022,12.52308 C13.88232,12.52308 14.39502,13.03578 14.39502,13.66788 Z" id="Stroke-5"></path>
+                        <path d="M21,10.5 C21,16.299 16.299,21 10.5,21 C4.701,21 0,16.299 0,10.5 C0,4.701 4.701,0 10.5,0 C16.299,0 21,4.701 21,10.5 Z" id="Stroke-7" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,117 @@
+.title{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    left: 0;
+    top: 10%;
+}
+.main-img .page-logo{
+    width: 11.8%;
+    
+}
+.title-name{
+    font-family: PingFangSC-Regular;
+    font-size: 2rem;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    margin-bottom: 36px;
+    margin-top: 12px;
+}
+.bottom-arrow{
+    width: 3%;
+    cursor: pointer;
+}
+.page-explain{
+    width: 93.8%;
+    background: #FFFFFF;
+    text-align: center;
+    padding: 100px 0 150px 0;
+    margin: 0 auto;
+    margin-top: -130px;
+    position: relative;
+    z-index: 1;
+}
+.page-conetnt{
+    width: 55.5%;
+    margin: 0 auto;
+}
+.page-crumbs{
+    margin-top: 0;
+}
+.explain-title img{
+    width: 3px;
+    height: 15px;
+    margin-right: 10px;
+}
+.explain-title{
+    font-family: PingFangSC-Medium;
+    font-size: 2.14rem;
+    color: #121212;
+    letter-spacing: 0;
+    line-height: 72px;
+    margin-bottom: 8px;
+}
+.ecplain-content{
+    font-family: PingFangSC-Light;
+    font-size: 1.28rem;
+    color: #121212;
+    letter-spacing: 0;
+    line-height: 36px;
+    text-align: left;
+    width: 60%;
+    margin-bottom: 48px;
+    font-weight: lighter;
+}
+.nav-list div{
+    padding: 12px;
+    font-family: PingFangSC-Regular;
+    font-size: 1.7rem;
+    color: #121212;
+    letter-spacing: 0;
+    cursor: pointer;
+}
+.nav-list .nav-active{
+    color: #C0172E;
+}
+.nav-undeline{
+    height: 2px;
+    width: 60%;
+    background: #f3f3f3;
+}
+.nav-undeline div{
+    background: #C0172E;
+    height: 100%;
+    transform: translate(0,0);
+    transition: all 0.4s;
+}
+.nav-content{
+    margin-top: 38px;
+    font-size: 1.28rem;
+    line-height: 38px;
+    text-align: left;
+}
+.nav-content-title{
+    font-family: PingFangSC-Medium;
+    color: #121212;
+}
+.nav-content-info{
+    font-family: PingFangSC-Light;
+    color: #000000;
+    font-weight: lighter;
+}
+.nav-contnet-2{
+    display: none;
+}
+.table-box{
+    margin-top: 28px;
+    font-family: PingFangSC-Regular;
+    font-size: 1.28rem;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: 49px;
+}
+.table-box th,.table-box td{
+    padding: 0 100px 0 40px;
+}

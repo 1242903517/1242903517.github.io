@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>选中_左箭头</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-120.000000, -470.000000)">
+            <g id="选中_左箭头" transform="translate(150.000000, 500.000000) scale(-1, 1) translate(-150.000000, -500.000000) translate(120.000000, 470.000000)">
+                <circle id="Oval" stroke="#888888" cx="30" cy="30" r="29.5"></circle>
+                <polyline id="Path-2" stroke="#666666" points="15 31.7921502 44.4527278 31.7921502 39.2634275 25"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

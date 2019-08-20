@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="105px" viewBox="0 0 105 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>自动换袋</title>
+    <desc>Created with Sketch.</desc>
+    <g id="最终" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="T1产品" transform="translate(-634.000000, -2252.000000)">
+            <g id="图标" transform="translate(0.000000, 2138.000000)">
+                <g id="自动换袋" transform="translate(634.000000, 114.000000)">
+                    <path d="M52.25,0.25 C80.969,0.25 104.25,23.531 104.25,52.25 C104.25,80.969 80.969,104.25 52.25,104.25 C23.531,104.25 0.25,80.969 0.25,52.25 C0.25,23.531 23.531,0.25 52.25,0.25" id="Stroke-1" stroke="#333333" stroke-width="0.5"></path>
+                    <path d="M55.25,35.25 L52.5,35.25 L50.25,35.25 L44.678,37.663 C36.071,41.391 30.5,49.875 30.5,59.254 L30.5,69.058 C30.5,73.03 33.72,76.25 37.692,76.25 L67.755,76.25 C71.48,76.25 74.5,73.23 74.5,69.505 L74.5,59.214 C74.5,49.874 68.908,41.441 60.304,37.807 L55.25,35.25 Z" id="Stroke-3" stroke="#231815" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-5" stroke="#231815" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="55.25 35.25 60.25 28.25 45.25 28.25 50.25 35.25"></polyline>
+                    <g id="Group-10" transform="translate(42.000000, 63.500000)">
+                        <path d="M0.334,0.1577 C2.719,2.9677 6.276,4.7497 10.25,4.7497 C13.97,4.7497 17.324,3.1877 19.694,0.6837" id="Fill-7" fill="#FFFFFF"></path>
+                        <path d="M0.334,0.1577 C2.719,2.9677 6.276,4.7497 10.25,4.7497 C13.97,4.7497 17.324,3.1877 19.694,0.6837" id="Stroke-9" stroke="#231815" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Group-14" transform="translate(43.000000, 45.500000)">
+                        <path d="M0.4805,4.1533 C2.7925,2.0393 5.8705,0.7503 9.2505,0.7503 C12.8395,0.7503 16.0895,2.2053 18.4425,4.5573" id="Fill-11" fill="#FFFFFF"></path>
+                        <path d="M0.4805,4.1533 C2.7925,2.0393 5.8705,0.7503 9.2505,0.7503 C12.8395,0.7503 16.0895,2.2053 18.4425,4.5573" id="Stroke-13" stroke="#231815" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Group-18" transform="translate(43.000000, 49.500000)">
+                        <path d="M0.4805,0.1533 L5.2505,1.7503" id="Fill-15" fill="#FFFFFF"></path>
+                        <path d="M0.4805,0.1533 L5.2505,1.7503" id="Stroke-17" stroke="#231815" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Group-22" transform="translate(56.000000, 62.500000)">
+                        <path d="M0.9727,0.0415 L5.7427,1.6375" id="Fill-19" fill="#FFFFFF"></path>
+                        <path d="M0.9727,0.0415 L5.7427,1.6375" id="Stroke-21" stroke="#231815" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

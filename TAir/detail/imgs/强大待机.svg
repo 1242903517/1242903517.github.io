@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>强大待机</title>
+    <desc>Created with Sketch.</desc>
+    <g id="强大待机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFF4D4" opacity="0" x="0" y="0" width="82" height="82"></rect>
+        <g id="Group-44" transform="translate(27.000000, 17.000000)">
+            <polygon id="Stroke-1" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="0.75 48 28.75 48 28.75 9 0.75 9"></polygon>
+            <path d="M21,5 L9,5 L9,3 C9,1.343 10.343,0 12,0 L18,0 C19.657,0 21,1.343 21,3 L21,5 Z" id="Fill-2" fill="#FFFBFB"></path>
+            <path d="M8.75,20 L20.75,20" id="Stroke-6" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M8.75,28 L20.75,28" id="Stroke-8" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M8.75,36 L20.75,36" id="Stroke-10" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

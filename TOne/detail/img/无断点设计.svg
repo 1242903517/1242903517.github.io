@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>无断点设计</title>
+    <desc>Created with Sketch.</desc>
+    <g id="最终" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="T1产品" transform="translate(-360.000000, -2488.000000)">
+            <g id="图标" transform="translate(0.000000, 2138.000000)">
+                <g id="无断点设计" transform="translate(360.000000, 350.000000)">
+                    <path d="M52,0 C23.281,0 0,23.281 0,52 C0,80.719 23.281,104 52,104 C80.719,104 104,80.719 104,52 C104,23.281 80.719,0 52,0 M52,0.5 C80.397,0.5 103.5,23.603 103.5,52 C103.5,80.397 80.397,103.5 52,103.5 C23.603,103.5 0.5,80.397 0.5,52 C0.5,23.603 23.603,0.5 52,0.5" id="Fill-1" fill="#333333"></path>
+                    <path d="M73,61 L32,61 C29.791,61 28,59.209 28,57 L28,32 C28,29.791 29.791,28 32,28 L73,28 C75.209,28 77,29.791 77,32 L77,57 C77,59.209 75.209,61 73,61 Z" id="Stroke-3" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M64,49 L41,49 C37.134,49 34,45.866 34,42 L34,41 C34,37.134 37.134,34 41,34 L64,34 C67.866,34 71,37.134 71,41 L71,42 C71,45.866 67.866,49 64,49 Z" id="Stroke-5" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M67,61 L67,63" id="Stroke-7" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M67,68.8149 L67,73.9999 C67,75.1049 66.104,75.9999 65,75.9999 L39,75.9999 C37.896,75.9999 37,75.1049 37,73.9999 L37,65.9079" id="Stroke-9" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3.877,5.815"></path>
+                    <path d="M37,63 L37,61" id="Stroke-11" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M73,55 L32,55 C29.791,55 28,53.209 28,51 L28,32 C28,29.791 29.791,28 32,28 L73,28 C75.209,28 77,29.791 77,32 L77,51 C77,53.209 75.209,55 73,55 Z" id="Stroke-13" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

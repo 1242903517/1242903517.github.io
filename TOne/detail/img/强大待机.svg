@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>强大待机</title>
+    <desc>Created with Sketch.</desc>
+    <g id="最终" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="T1产品" transform="translate(-908.000000, -2488.000000)">
+            <g id="图标" transform="translate(0.000000, 2138.000000)">
+                <g id="强大待机" transform="translate(908.000000, 350.000000)">
+                    <polygon id="Stroke-1" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="37.75 74 65.75 74 65.75 35 37.75 35"></polygon>
+                    <g id="Group-12">
+                        <path d="M58,31 L46,31 L46,29 C46,27.343 47.343,26 49,26 L55,26 C56.657,26 58,27.343 58,29 L58,31 Z" id="Fill-2" fill="#333333"></path>
+                        <path d="M52,0 C23.281,0 0,23.281 0,52 C0,80.719 23.281,104 52,104 C80.719,104 104,80.719 104,52 C104,23.281 80.719,0 52,0 M52,0.5 C80.397,0.5 103.5,23.603 103.5,52 C103.5,80.397 80.397,103.5 52,103.5 C23.603,103.5 0.5,80.397 0.5,52 C0.5,23.603 23.603,0.5 52,0.5" id="Fill-4" fill="#333333"></path>
+                        <path d="M45.75,46 L57.75,46" id="Stroke-6" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M45.75,54 L57.75,54" id="Stroke-8" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M45.75,62 L57.75,62" id="Stroke-10" stroke="#333333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

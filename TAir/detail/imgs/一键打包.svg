@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>一键打包</title>
+    <desc>Created with Sketch.</desc>
+    <g id="一键打包" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFF4D4" opacity="0" x="0" y="0" width="82" height="82"></rect>
+        <g id="Group-36" transform="translate(19.000000, 17.000000)">
+            <path d="M24.75,7 L22,7 L19.75,7 L14.178,9.413 C5.571,13.141 0,21.625 0,31.004 L0,40.808 C0,44.78 3.22,48 7.192,48 L37.255,48 C40.98,48 44,44.98 44,41.255 L44,30.964 C44,21.624 38.408,13.191 29.804,9.557 L24.75,7 Z" id="Stroke-3" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Stroke-5" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="25 7 30 0 15 0 20 7"></polyline>
+            <polyline id="Fill-7" fill="#FFFFFF" points="2 5 12 5 9 2"></polyline>
+            <polyline id="Stroke-9" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="2 5 12 5 9 2"></polyline>
+            <polyline id="Fill-11" fill="#FFFFFF" points="43 5 33 5 36 2"></polyline>
+            <polyline id="Stroke-13" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="43 5 33 5 36 2"></polyline>
+        </g>
+    </g>
+</svg>

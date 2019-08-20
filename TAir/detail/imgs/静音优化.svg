@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>静音优化</title>
+    <desc>Created with Sketch.</desc>
+    <g id="静音优化" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFF4D4" opacity="0" x="0" y="0" width="82" height="82"></rect>
+        <g id="Group-46" transform="translate(18.000000, 18.000000)">
+            <path d="M2.5,36.5 L8.67,36.5 L12.579,32.5 L4.5,32.5 L4.5,14.5 L14,14.5 C14.322,14.5 14.641,14.422 14.927,14.272 L34,4.302 L34,10.58 L38,6.487 L38,4.302 C38,2.892 37.279,1.612 36.072,0.881 C34.867,0.15 33.398,0.103 32.148,0.757 L32.146,0.757 L13.509,10.5 L2.5,10.5 C1.396,10.5 0.5,11.396 0.5,12.5 L0.5,34.5 C0.5,35.604 1.396,36.5 2.5,36.5" id="Fill-3" fill="#FFFBFB"></path>
+            <path d="M34,22.0244 L34,42.6624 L20.755,35.5774 L17.844,38.5564 L32.113,46.1894 C32.709,46.5074 33.355,46.6674 34.002,46.6674 C34.711,46.6674 35.418,46.4754 36.056,46.0934 C37.273,45.3644 38,44.0814 38,42.6624 L38,17.9304 L34,22.0244 Z" id="Fill-5" fill="#FFFBFB"></path>
+            <path d="M47,3 L4,47" id="Stroke-7" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

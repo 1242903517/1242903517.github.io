@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>一键换袋</title>
+    <desc>Created with Sketch.</desc>
+    <g id="一键换袋" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFF4D4" opacity="0" x="0" y="0" width="82" height="82"></rect>
+        <g id="Group-37" transform="translate(19.000000, 17.000000)">
+            <path d="M25.25,7.25 L22.5,7.25 L20.25,7.25 L14.678,9.663 C6.071,13.391 0.5,21.875 0.5,31.254 L0.5,41.058 C0.5,45.03 3.72,48.25 7.692,48.25 L37.755,48.25 C41.48,48.25 44.5,45.23 44.5,41.505 L44.5,31.214 C44.5,21.874 38.908,13.441 30.304,9.807 L25.25,7.25 Z" id="Stroke-3" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Stroke-5" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="25.25 7.25 30.25 0.25 15.25 0.25 20.25 7.25"></polyline>
+            <path d="M12.334,35.6577 C14.719,38.4677 18.276,40.2497 22.25,40.2497 C25.97,40.2497 29.324,38.6877 31.694,36.1837" id="Stroke-9" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M13.4805,21.6533 C15.7925,19.5393 18.8705,18.2503 22.2505,18.2503 C25.8395,18.2503 29.0895,19.7053 31.4425,22.0573" id="Stroke-13" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M13.4805,21.6533 L18.2505,23.2503" id="Fill-15" fill="#FFFFFF"></path>
+            <path d="M13.4805,21.6533 L18.2505,23.2503" id="Stroke-17" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M26.9727,34.5415 L31.7427,36.1375" id="Fill-19" fill="#FFFFFF"></path>
+            <path d="M26.9727,34.5415 L31.7427,36.1375" id="Stroke-21" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
